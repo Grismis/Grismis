@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**Grismis/Grismis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+1) Describe your career and educational background.
+    I have bachelor degree in Information Technology from India.I was worked as a web developer in India.
 
-Here are some ideas to get you started:
+2) Describe any hobby projects or other experience you have with tech.
+    I like to work on programming language. I created some web pages when i was working in India. I created this web pages using with HTML, CSS , Javascript and Bootstrap.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+3) Describe what specific technologies you have experience with (if any).
+   I have same Experience with
+   - HTML
+   - CSS
+   - Javascript
+   - SQL
+   - Bootstrap
+   - C#
+   - ASP.Net
+    
+
+    
